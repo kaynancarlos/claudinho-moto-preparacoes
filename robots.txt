@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://claudinhomotopreparacoes.vercel.app/sitemap.xml
